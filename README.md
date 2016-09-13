@@ -1,2 +1,3 @@
 # hello-world
-It begins.
+
+Male, 28, Baltimore. Brand new to programming.
